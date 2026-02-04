@@ -1,1 +1,6 @@
+# Executables
 inventaire
+test_mysql
+
+# Fichiers objets
+*.o
